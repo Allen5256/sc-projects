@@ -5,7 +5,7 @@ This repository holds my programming projects done during the period of stanCode
 Here is my [Demo Videos](https://drive.google.com/drive/folders/1mlEoBpaRqLUF8tJpBux85MxXH6MyvD42?usp=sharing) for the projects.
 
 These videos does not cover every project in the repository.\
-If you are interested in projects other than those covered by the demo videos, feel free to browse them!
+If you are interested in projects other than those covered by the demo videos, just feel free to browse them!
 
 ## Project Source Codes
 - [Hangman Game](https://github.com/Allen5256/sc-projects/blob/3f6b338a70059771bc3e17cf3cc4a74187645523/sc-project/SC101_Assignment0/hangman.py)
