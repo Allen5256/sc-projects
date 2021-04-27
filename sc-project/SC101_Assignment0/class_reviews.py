@@ -12,7 +12,8 @@ the maximum, minimum, and average among all the inputs.
 
 def main():
     """
-    TODO:
+    TODO: The while loop will keep asking users to input a class name (SC001 or SC101)and its relative score until users input -1.
+    After users input all the infomation, the program will calculate tha maximum, minimum and average scores for both classes.
     """
     max_001 = 0
     min_001 = 10
