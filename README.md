@@ -2,7 +2,7 @@
 Hi there! I am Allen, a python programming novice.\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Here is my [Demo Videos](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg) for the projects.
+Here is my [Demo Videos](https://drive.google.com/drive/folders/1mlEoBpaRqLUF8tJpBux85MxXH6MyvD42?usp=sharing) for the projects.
 
 These videos does not cover every project in the repository.\
 If you are interested in projects other than those covered by the demo videos, feel free to browse them!
