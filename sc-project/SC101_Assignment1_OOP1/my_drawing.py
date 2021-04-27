@@ -2,7 +2,7 @@
 File: my_drawing.py
 Name: Allen Lee
 ----------------------
-TODO:
+TODO: The program use campy package to draw an iron man face.
 """
 
 from campy.graphics.gobjects import GOval, GRect, GPolygon
@@ -18,7 +18,7 @@ window = GWindow(1000, 800, title='My Drawing')
 
 def main():
     """
-    TODO:
+    TODO: The code is seperated into several parts representing different part of the iron man face.
     """
     background = GRect(1000, 800, x=0, y=0)
     background.filled = True
