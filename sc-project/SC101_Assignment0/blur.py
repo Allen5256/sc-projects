@@ -13,8 +13,8 @@ from simpleimage import SimpleImage
 
 def blur(img):
     """
-    :param img:
-    :return:
+    :param img: (SimpleImage) The original image that has not been blurred
+    :return: (SimpleImage) The new image that has been blurred
     """
     clear = img
     blurred = SimpleImage.blank(clear.width, clear.height)
@@ -43,7 +43,7 @@ def blur(img):
 
 def main():
     """
-    TODO:
+    TODO: Use a function blur() to process a image, turnning it into a blurred version.
     """
     old_img = SimpleImage("images/smiley-face.png")
     old_img.show()
